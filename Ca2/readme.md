@@ -1,7 +1,3 @@
-<style>
-   
-</style>
-
 <h1>Php Mysql webpage</h1>
 <h4>This webpage is built using Html, Css, Php, JavaScript with Mysql Data Base Connectivity</h4>
 <br>
